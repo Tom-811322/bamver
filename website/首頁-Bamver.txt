@@ -1,0 +1,70 @@
+<html><head>
+<meta charset="utf-8">
+<title>Bamver</title>
+<style type="text/css">
+	
+	/*設定 a 標籤的css樣式*/
+	.page-normal a{
+		border: 1px solid #ff6500;
+		padding: 5px 7px;
+		color: #ff6500;
+		margin-left: 20px;/*設定標籤 a 之間的間隔*/
+		text-decoration: none;/*去除頁碼數字下面的下劃線*/
+	}
+	/*設定滑鼠經過時 a 標籤的css樣式*/
+	.page-normal a:hover{
+		background-color: #ffbe94;
+	}
+	
+	/*設定整個div的css樣式,該樣式主要用於設定網頁內的省略號 …… 的樣式，並且同時設定內容居中顯示*/
+	.page-normal{
+		color: #ff6500;
+		text-align: center;
+	}
+	
+	/*設定當前頁面的css樣式*/
+	.page-normal .page-current{
+		color: #ffffff;
+		background-color: #ff6500;
+	}
+	
+	/*設定左單括號 < 的css樣式*/
+	.page-normal .page-prev{
+		color: #ffe3c6;
+	}
+	
+	/*進行程式碼優化，將不同css樣式中共有的屬性放在一起，有助於提高執行效率*/
+	.page-normal a, .page-normal a:hover, .page-normal .page-prev, .page-normal .page-current{
+		border: 1px solid #ff6500;
+		padding: 5px 7px;
+	}
+	
+</style>
+</head>
+<body><div class="page-normal">
+	<span class="page-prev">&lt;</span>
+	<span class="page-current">首頁</span>
+	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/植物分類-Bamver.html">植物分類</a>
+	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/重要植物介紹-Bamver.html">重要植物介紹</a>
+</div>
+
+<hr size="3" noshade="">
+<hr size="3">
+<center>
+<img src="首頁.png" align="center" height="20%">
+</center>
+<hr size="3">
+<hr size="3" noshade="">
+<b><h2>
+<center>
+<font color="blue">歡迎來到Bamver!!!</font></center></h2>
+
+</b>
+<p>
+</p><center>
+<img src="虎高植物地圖.jpeg" height="50%">
+<a href="https://drive.google.com/file/d/14Lgk4-3cTmVLasVSI_haP9x98T6mzlZj/view?usp=sharing">放大照片請點我</a>
+</center>
+<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/網站介紹-Bamver.html">網站介紹</a>
+<img src="Bamver.png" align="right" height="10%">
+</body></html>
