@@ -42,21 +42,14 @@
 </style>
 </head>
 <body><div class="page-normal">
-	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/首頁-Bamver.html">首頁</a>
-	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/植物分類-Bamver.html">植物分類</a>
-	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/重要植物介紹-Bamver.html">重要植物介紹</a>&lt;
+	<a href="../index.html">首頁</a>
+	<a href="./typing_plant.html">植物分類</a>
+	<a href="./important_plant.html">重要植物介紹</a>&lt;
 </div>
 
 <h2>架設網站緣由</h2>
-<h3>
-現今社會日益科技化，不管是哪種方面，都講求e化科技，希望別人藉由最方便的方式-網路<br>
-，不管在哪裡，都能了解它們。所以當我們在偶然下，突然想了解我們學校-虎尾高中的校園<br>
-某植物時，但是我們卻沒有在網路上發現相關的虎高植物介紹，我們別無選擇，只能上網或<br>
-看書找資料了，我們上窮碧落下黃泉，費了九牛二虎之力，才終於一點一滴拼湊出學校的<br>
-真面目。雖然在起初，我們很有成就感，然而，畢竟前人留的資料不多，需要更多的時間統<br>
-整，我們原本對於認識植物的熱情，在經歷時間的洗禮也漸漸消逝。但是，其他人也會有這<br>
-樣的問題吧!為什麼我們不做一份校園植物介紹呢?如此一來，學校學生就能輕鬆認識學校的<br>
-植物，不用大費周章去辨認不認識的植物，手指一點就能完成。<br>
+<h3 style="max-width: 600px; text-align: justify;">
+現今社會日益科技化，不管是哪種方面，都講求e化科技，希望別人藉由最方便的方式-網路，不管在哪裡，都能了解它們。所以當我們在偶然下，突然想了解我們學校-虎尾高中的校園某植物時，但是我們卻沒有在網路上發現相關的虎高植物介紹，我們別無選擇，只能上網或看書找資料了，我們上窮碧落下黃泉，費了九牛二虎之力，才終於一點一滴拼湊出學校的真面目。雖然在起初，我們很有成就感，然而，畢竟前人留的資料不多，需要更多的時間統整，我們原本對於認識植物的熱情，在經歷時間的洗禮也漸漸消逝。但是，其他人也會有這樣的問題吧!為什麼我們不做一份校園植物介紹呢?如此一來，學校學生就能輕鬆認識學校的植物，不用大費周章去辨認不認識的植物，手指一點就能完成。
 </h3>
 <br>
 <h2>預期效益</h2>
@@ -74,8 +67,8 @@
 <br>
 <h2>參考資料</h2>
 <h3>
-<a href="http://kplant.biodiv.tw/365plant/index.htm">認識植物</a><br>
+<a href="http://kplant.biodiv.tw/365plant/index.htm"><s style="color: red;">認識植物</s></a>(目前網站無法存取)<br>
 <a href="http://tlpg.hsiliu.org.tw/">台灣景觀植物介紹</a>
 </h3>
-<img src="Bamver.png" align="right" height="10%">
+<img src="./png/Bamver.png" align="right" height="10%">
 </body></html>

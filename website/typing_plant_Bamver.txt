@@ -42,23 +42,23 @@
 </style>
 </head>
 <body><div class="page-normal">
-	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/首頁-Bamver.html">首頁</a>
+	<a href="../index.html">首頁</a>
 	<span class="page-prev">&lt;</span>
 	<span class="page-current">植物分類</span>
-	<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/重要植物介紹-Bamver.html">重要植物介紹</a>
+	<a href="./important_plant.html">重要植物介紹</a>
 </div>
 <hr size="3" noshade="">
 <hr size="3">
 <center>
-<img src="植物分類.png" align="center" height="20%">
+<img src="./png/typing_plant.png" align="center" height="20%">
 </center>
 <hr size="3">
 <hr size="3" noshade="">
 <center>
-<img src="植物分類圖.png" height="60%">
+<img src="./png/typing_plant_table.png" height="60%">
 <a href="https://drive.google.com/file/d/1fV5W3gvvIoMT5Xp7Mmz4hXYDYmYu173r/view?usp=sharing">放大照片請點我</a>
 </center>
 <p>
-<a href="https://mz1zjhwkojshubrp185ghw-on.drv.tw/網站/網站介紹-Bamver.html">網站介紹</a>
-<img src="Bamver.png" align="right" height="10%">
+<a href="./introducing_website.html">網站介紹</a>
+<img src="./png/Bamver.png" align="right" height="10%">
 </p></body></html>
